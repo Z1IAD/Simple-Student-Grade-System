@@ -1,4 +1,5 @@
-Student Grades Project (Qt)
+**Student Grades Project (Qt)
+**
 Hello, this is my first project using Qt and C++.
 I try to make small app for adding students and their grades.
 It show the average and also give letter grade (like A, B, C...).
