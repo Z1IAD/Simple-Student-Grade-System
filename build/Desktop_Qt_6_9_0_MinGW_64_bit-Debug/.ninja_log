@@ -1,0 +1,31 @@
+# ninja log v6
+31	610	7676259512322700	StudentGradeSystem_autogen/timestamp	aee31fe9d4eaefdd
+31	610	7676259512322700	StudentGradeSystem_autogen/mocs_compilation.cpp	aee31fe9d4eaefdd
+31	610	7676259512322700	B:/QU/Level 2/CSC111/project/Programe file/StudentGradeSystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/StudentGradeSystem_autogen/timestamp	aee31fe9d4eaefdd
+31	610	7676259512322700	B:/QU/Level 2/CSC111/project/Programe file/StudentGradeSystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/StudentGradeSystem_autogen/mocs_compilation.cpp	aee31fe9d4eaefdd
+616	2868	7676259513055965	CMakeFiles/StudentGradeSystem.dir/mainwindow.cpp.obj	462f850cccb4bf92
+610	2713	7676259512990730	CMakeFiles/StudentGradeSystem.dir/StudentGradeSystem_autogen/mocs_compilation.cpp.obj	cc46c394ac74ae7e
+613	2730	7676259513025820	CMakeFiles/StudentGradeSystem.dir/main.cpp.obj	2a59e7d3a4918b47
+2868	3052	7676259535575918	StudentGradeSystem.exe	c2b19ac00b88e07c
+31	784	7676270566351327	StudentGradeSystem_autogen/timestamp	aee31fe9d4eaefdd
+31	784	7676270566351327	StudentGradeSystem_autogen/mocs_compilation.cpp	aee31fe9d4eaefdd
+31	784	7676270566351327	B:/QU/Level 2/CSC111/project/Programe file/StudentGradeSystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/StudentGradeSystem_autogen/timestamp	aee31fe9d4eaefdd
+31	784	7676270566351327	B:/QU/Level 2/CSC111/project/Programe file/StudentGradeSystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/StudentGradeSystem_autogen/mocs_compilation.cpp	aee31fe9d4eaefdd
+785	2901	7676270566983157	CMakeFiles/StudentGradeSystem.dir/StudentGradeSystem_autogen/mocs_compilation.cpp.obj	cc46c394ac74ae7e
+788	2937	7676270567018211	CMakeFiles/StudentGradeSystem.dir/main.cpp.obj	2a59e7d3a4918b47
+790	3096	7676270567048262	CMakeFiles/StudentGradeSystem.dir/mainwindow.cpp.obj	462f850cccb4bf92
+3096	3298	7676270590101867	StudentGradeSystem.exe	c2b19ac00b88e07c
+11	171	7676276384665694	StudentGradeSystem_autogen/timestamp	aee31fe9d4eaefdd
+11	171	7676276384665694	StudentGradeSystem_autogen/mocs_compilation.cpp	aee31fe9d4eaefdd
+11	171	7676276384665694	B:/QU/Level 2/CSC111/project/Programe file/StudentGradeSystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/StudentGradeSystem_autogen/timestamp	aee31fe9d4eaefdd
+11	171	7676276384665694	B:/QU/Level 2/CSC111/project/Programe file/StudentGradeSystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/StudentGradeSystem_autogen/mocs_compilation.cpp	aee31fe9d4eaefdd
+172	2255	7676276386269862	CMakeFiles/StudentGradeSystem.dir/mainwindow.cpp.obj	462f850cccb4bf92
+2255	2435	7676276407105669	StudentGradeSystem.exe	c2b19ac00b88e07c
+11	582	7676298586770427	StudentGradeSystem_autogen/timestamp	aee31fe9d4eaefdd
+11	582	7676298586770427	StudentGradeSystem_autogen/mocs_compilation.cpp	aee31fe9d4eaefdd
+11	582	7676298586770427	B:/QU/Level 2/CSC111/project/Programe file/StudentGradeSystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/StudentGradeSystem_autogen/timestamp	aee31fe9d4eaefdd
+11	582	7676298586770427	B:/QU/Level 2/CSC111/project/Programe file/StudentGradeSystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/StudentGradeSystem_autogen/mocs_compilation.cpp	aee31fe9d4eaefdd
+582	2657	7676298587356990	CMakeFiles/StudentGradeSystem.dir/StudentGradeSystem_autogen/mocs_compilation.cpp.obj	cc46c394ac74ae7e
+585	2672	7676298587376988	CMakeFiles/StudentGradeSystem.dir/main.cpp.obj	2a59e7d3a4918b47
+587	2828	7676298587396977	CMakeFiles/StudentGradeSystem.dir/mainwindow.cpp.obj	462f850cccb4bf92
+2828	3031	7676298609816223	StudentGradeSystem.exe	c2b19ac00b88e07c

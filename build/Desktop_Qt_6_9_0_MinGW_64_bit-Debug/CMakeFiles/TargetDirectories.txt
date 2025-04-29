@@ -1,0 +1,9 @@
+B:/QU/Level 2/CSC111/project/Programe file/StudentGradeSystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/StudentGradeSystem.dir
+B:/QU/Level 2/CSC111/project/Programe file/StudentGradeSystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+B:/QU/Level 2/CSC111/project/Programe file/StudentGradeSystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+B:/QU/Level 2/CSC111/project/Programe file/StudentGradeSystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+B:/QU/Level 2/CSC111/project/Programe file/StudentGradeSystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+B:/QU/Level 2/CSC111/project/Programe file/StudentGradeSystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+B:/QU/Level 2/CSC111/project/Programe file/StudentGradeSystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+B:/QU/Level 2/CSC111/project/Programe file/StudentGradeSystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/StudentGradeSystem_autogen_timestamp_deps.dir
+B:/QU/Level 2/CSC111/project/Programe file/StudentGradeSystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/StudentGradeSystem_autogen.dir
