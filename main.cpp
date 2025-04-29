@@ -1,19 +1,13 @@
-#include "mainwindow.h"
+#include"mainwindow.h"
+#include<QApplication>
+#include<QFont>
 
-#include <QApplication>
-#include <QFont>
-
-int main(int argc, char *argv[])
+int main(int argc,char*argv[])
 {
-    QApplication a(argc, argv);
-
-    // تعيين الاتجاه من اليمين إلى اليسار للغة العربية
+    QApplication a(argc,argv);
     a.setLayoutDirection(Qt::RightToLeft);
-
-    // تعيين خط مناسب للعربية
-    QFont font("Arial", 10);
+    QFont font("Arial",10);
     a.setFont(font);
-
     MainWindow w;
     w.show();
     return a.exec();

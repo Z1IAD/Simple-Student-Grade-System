@@ -435,4 +435,3 @@ B:/QU/Level 2/CSC111/project/Programe file/StudentGradeSystem/mainwindow.h
  mdp:C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h
 B:/QU/Level 2/CSC111/project/Programe file/StudentGradeSystem/main.cpp
 B:/QU/Level 2/CSC111/project/Programe file/StudentGradeSystem/mainwindow.cpp
- uic:ui_mainwindow.h
